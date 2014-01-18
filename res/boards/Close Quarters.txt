@@ -1,0 +1,47 @@
+Close Quarters
+4
+4 4
+27 17
+21 4
+10 17
+30 20
+mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain 
+mountain mountain rocks grass grass grass plains plains grass grass grass plains plains plains plains plains plains plains grass mountain mountain mountain grass grass grass grass rocks mountain mountain mountain 
+mountain rocks grass grass grass grass plains plains grass grass grass grass mountain mountain mountain mountain rocks grass grass grass grass grass grass grass grass plains rocks rocks mountain mountain 
+mountain grass grass grass grass plains plains plains plains mountain grass grass mountain mountain mountain rocks grass grass grass grass grass grass grass grass grass rocks rocks grass grass mountain 
+mountain grass grass grass grass plains mountain rocks mountain grass grass grass grass mountain mountain rocks grass grass grass grass grass grass grass grass grass rocks plains grass grass mountain 
+mountain grass grass plains plains mountain mountain mountain mountain grass grass rocks rocks mountain mountain rocks grass grass grass plains plains plains grass grass rocks mountain grass grass grass mountain 
+mountain plains plains plains mountain mountain mountain mountain mountain mountain rocks rocks grass grass mountain mountain mountain mountain plains plains plains plains rocks mountain mountain mountain grass grass rocks mountain 
+mountain plains plains plains rocks mountain mountain mountain rocks grass grass grass grass grass grass plains plains grass grass grass grass rocks mountain mountain grass grass grass grass mountain mountain 
+mountain grass grass plains plains rocks mountain mountain grass grass grass grass mountain grass plains plains plains plains grass grass grass mountain mountain rocks grass grass grass grass mountain mountain 
+mountain grass grass grass grass grass mountain rocks grass grass grass mountain mountain mountain plains plains plains plains plains grass grass grass rocks rocks grass grass grass grass rocks mountain 
+mountain rocks grass grass grass grass rocks rocks grass grass grass plains plains plains plains plains mountain mountain mountain grass grass grass rocks mountain grass grass grass grass grass mountain 
+mountain mountain grass grass grass grass rocks mountain mountain grass grass grass plains plains plains plains grass mountain grass grass grass grass mountain mountain rocks plains plains grass grass mountain 
+mountain mountain grass grass grass grass mountain mountain rocks grass grass grass grass plains plains grass grass grass grass grass grass rocks mountain mountain mountain rocks plains plains plains mountain 
+mountain rocks grass grass mountain mountain mountain rocks plains plains plains plains mountain mountain mountain mountain grass grass rocks rocks mountain mountain mountain mountain mountain mountain plains plains plains mountain 
+mountain grass grass grass mountain rocks grass grass plains plains plains grass grass grass rocks mountain mountain rocks rocks grass grass mountain mountain mountain mountain plains plains grass grass mountain 
+mountain grass grass plains rocks grass grass grass grass grass grass grass grass grass rocks mountain mountain grass grass grass grass mountain rocks mountain plains grass grass grass grass mountain 
+mountain grass grass rocks rocks grass grass grass grass grass grass grass grass grass rocks mountain mountain mountain grass grass mountain plains plains plains plains grass grass grass grass mountain 
+mountain mountain rocks rocks plains grass grass grass grass grass grass grass grass rocks mountain mountain mountain mountain grass grass grass grass plains plains grass grass grass grass rocks mountain 
+mountain mountain mountain rocks grass grass grass grass mountain mountain mountain grass plains plains plains plains plains plains plains grass grass grass plains plains grass grass grass rocks mountain mountain 
+mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain 
+99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 
+99 99 4 1 1 1 2 2 1 1 1 2 2 2 2 2 2 2 1 99 99 99 1 1 1 1 4 99 99 99 
+99 4 1 1 1 1 2 2 1 1 1 1 99 99 99 99 4 1 1 1 1 1 1 1 1 2 4 4 99 99 
+99 1 1 1 1 2 2 2 2 99 1 1 99 99 99 4 1 1 1 1 1 1 1 1 1 4 4 1 1 99 
+99 1 1 1 1 2 99 4 99 1 1 1 1 99 99 4 1 1 1 1 1 1 1 1 1 4 2 1 1 99 
+99 1 1 2 2 99 99 99 99 1 1 4 4 99 99 4 1 1 1 2 2 2 1 1 4 99 1 1 1 99 
+99 2 2 2 99 99 99 99 99 99 4 4 1 1 99 99 99 99 2 2 2 2 4 99 99 99 1 1 4 99 
+99 2 2 2 4 99 99 99 4 1 1 1 1 1 1 2 2 1 1 1 1 4 99 99 1 1 1 1 99 99 
+99 1 1 2 2 4 99 99 1 1 1 1 99 1 2 2 2 2 1 1 1 99 99 4 1 1 1 1 99 99 
+99 1 1 1 1 1 99 4 1 1 1 99 99 99 2 2 2 2 2 1 1 1 4 4 1 1 1 1 4 99 
+99 4 1 1 1 1 4 4 1 1 1 2 2 2 2 2 99 99 99 1 1 1 4 99 1 1 1 1 1 99 
+99 99 1 1 1 1 4 99 99 1 1 1 2 2 2 2 1 99 1 1 1 1 99 99 4 2 2 1 1 99 
+99 99 1 1 1 1 99 99 4 1 1 1 1 2 2 1 1 1 1 1 1 4 99 99 99 4 2 2 2 99 
+99 4 1 1 99 99 99 4 2 2 2 2 99 99 99 99 1 1 4 4 99 99 99 99 99 99 2 2 2 99 
+99 1 1 1 99 4 1 1 2 2 2 1 1 1 4 99 99 4 4 1 1 99 99 99 99 2 2 1 1 99 
+99 1 1 2 4 1 1 1 1 1 1 1 1 1 4 99 99 1 1 1 1 99 4 99 2 1 1 1 1 99 
+99 1 1 4 4 1 1 1 1 1 1 1 1 1 4 99 99 99 1 1 99 2 2 2 2 1 1 1 1 99 
+99 99 4 4 2 1 1 1 1 1 1 1 1 4 99 99 99 99 1 1 1 1 2 2 1 1 1 1 4 99 
+99 99 99 4 1 1 1 1 99 99 99 1 2 2 2 2 2 2 2 1 1 1 2 2 1 1 1 4 99 99 
+99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 
