@@ -1,13 +1,12 @@
 Conquest
 ========
 
-Grade 12 Computer Science Project
-
-This was a game programmed by myself, with menu graphics being done by me and pixel art being done by Derek Chylinski.  
-It was the final project for our Grade 12 AP Computer Science class.  
-
 The game is meanet to be a rough clone of Fire Emblem.  Much more was planned before, with more interesting abilities and
 other mechanics that would seperate it from being a simple clone, however due to time constraints we were unable 
-to do so.  
+to do so.  A hope for the future is to recreate our old idea in Android, as the game would work very well on a Tablet.   
 
-A hope for the future is to recreate our old idea in Android, as the game would work well on a Tablet.   
+The game was planned and programmed entirely by myself, with the sprites being made by my classmate Derek Chylinski and the rest of the graphics being made by myself. 
+
+The game currently includes both a level designer and a way to play the levels.  The user can choose how many humans and how many computer players there are (the max players depends on the board).  
+
+The AI in the game is very rough as it was rushed to fit in the time constraints.  The pathing is done using A* and the decision making is made by considering an influence map of the grid (enemies are given negative values, allies positive values, then the entire map is blurred repeatedly to establish areas of danger and safety).  
